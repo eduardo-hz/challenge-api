@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "sql3395144",
+    "password": "th9Jy3pA3b",
+    "database": "sql3395144",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "sql3395144",
+    "password": "th9Jy3pA3b",
+    "database": "sql3395144",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql3395144",
+    "password": "th9Jy3pA3b",
+    "database": "sql3395144",
+    "host": "sql3.freemysqlhosting.net",
+    "dialect": "mysql"
+  }
+}
